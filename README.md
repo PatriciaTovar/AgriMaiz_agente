@@ -235,11 +235,18 @@ Durante las pruebas de funcionamiento se verificó correctamente:
 
 ## Consulta realizada
 <img width="1780" height="851" alt="image" src="https://github.com/user-attachments/assets/a8a6d051-ca2b-4c98-a2f9-38c31f9880b4" />
+<img width="1815" height="697" alt="image" src="https://github.com/user-attachments/assets/664e0843-1bc3-4c85-9960-30f3fefc5946" />
+
 
 ## Base documental
 <img width="1812" height="700" alt="image" src="https://github.com/user-attachments/assets/984f07e6-1282-4376-96c4-c71bef6dcbde" />
 
 <img width="1744" height="857" alt="image" src="https://github.com/user-attachments/assets/0325e8dd-0cfb-4248-9ecc-8a26fa8df955" />
+
+<img width="1812" height="886" alt="image" src="https://github.com/user-attachments/assets/aeb5ec16-ba07-4777-b69f-4e397c33e490" />
+
+<img width="1815" height="887" alt="image" src="https://github.com/user-attachments/assets/baed4755-e89d-4134-afe5-f20b67a47389" />
+
 
 ## Arquitectura
 <img width="567" height="874" alt="image" src="https://github.com/user-attachments/assets/fff08ac7-acef-4d3f-acbd-0a2c4545a38c" />
