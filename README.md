@@ -4,7 +4,7 @@
 
 ---
 
-# 📖 Descripción
+# Descripción
 
 AgriAsistente es una aplicación desarrollada como parte del desafío **Agentes Inteligentes** de Alura.
 
@@ -14,7 +14,7 @@ La aplicación permite consultar manuales, procedimientos, preguntas frecuentes 
 
 ---
 
-# 🚀 Características
+# Características
 
 - Consulta mediante lenguaje natural.
 - Arquitectura Retrieval-Augmented Generation (RAG).
@@ -29,7 +29,7 @@ La aplicación permite consultar manuales, procedimientos, preguntas frecuentes 
 
 ---
 
-# 🏗 Arquitectura
+# Arquitectura
 
 El flujo del sistema es el siguiente:
 
@@ -54,7 +54,7 @@ Respuesta con fuentes
 
 ---
 
-# 🛠 Tecnologías utilizadas
+# Tecnologías utilizadas
 
 - Python 3.11
 - Streamlit
@@ -68,7 +68,7 @@ Respuesta con fuentes
 
 ---
 
-# 📁 Estructura del proyecto
+# Estructura del proyecto
 
 ```
 AgriMaiz_agente/
@@ -86,7 +86,7 @@ AgriMaiz_agente/
 
 ---
 
-# ⚙ Instalación
+# Instalación
 
 Clonar el repositorio
 
@@ -128,7 +128,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🔐 Variables de entorno
+# Variables de entorno
 
 Crear un archivo `.env`
 
@@ -139,7 +139,7 @@ GROQ_MODEL=llama-3.3-70b-versatile
 
 ---
 
-# ▶ Ejecución
+# Ejecución
 
 Ejecutar la aplicación
 
@@ -153,7 +153,7 @@ Posteriormente las consultas se realizan utilizando el índice previamente const
 
 ---
 
-# ☁ Despliegue en Oracle Cloud Infrastructure
+# Despliegue en Oracle Cloud Infrastructure
 
 La aplicación fue desplegada en una instancia **Oracle Cloud Infrastructure Compute** utilizando:
 
@@ -181,7 +181,7 @@ Se configuró la Security List de OCI para permitir tráfico TCP por el puerto *
 
 ---
 
-# 📋 Registro de ejecución
+# Registro de ejecución
 
 Las pruebas del sistema se realizaron directamente sobre la instancia desplegada en Oracle Cloud Infrastructure.
 
@@ -210,7 +210,7 @@ Ejemplo de registro:
 
 ---
 
-# 📊 Resultados
+# Resultados
 
 Durante las pruebas de funcionamiento se verificó correctamente:
 
@@ -226,23 +226,30 @@ Durante las pruebas de funcionamiento se verificó correctamente:
 
 ---
 
-# 📸 Evidencias
+# Evidencias
+## Despliegue en OCI
+<img width="1918" height="761" alt="image" src="https://github.com/user-attachments/assets/91ef907c-951b-4da8-857e-9283569a5e6e" />
 
-Se recomienda incluir en el repositorio:
+## Interfaz principal
+<img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/e7e1b0db-a204-4ad1-8c4e-bb0cb2564c09" />
 
-- Captura de la aplicación ejecutándose en OCI.
-- Captura de una consulta respondida por el asistente.
-- Diagrama de la arquitectura.
-- (Opcional) Video demostrativo del funcionamiento.
+## Consulta realizada
+<img width="1780" height="851" alt="image" src="https://github.com/user-attachments/assets/a8a6d051-ca2b-4c98-a2f9-38c31f9880b4" />
 
----
+## Base documental
+<img width="1812" height="700" alt="image" src="https://github.com/user-attachments/assets/984f07e6-1282-4376-96c4-c71bef6dcbde" />
 
-# 🔮 Trabajo futuro
+<img width="1744" height="857" alt="image" src="https://github.com/user-attachments/assets/0325e8dd-0cfb-4248-9ecc-8a26fa8df955" />
+
+## Arquitectura
+<img width="567" height="874" alt="image" src="https://github.com/user-attachments/assets/fff08ac7-acef-4d3f-acbd-0a2c4545a38c" />
+
+<img width="967" height="161" alt="image" src="https://github.com/user-attachments/assets/ca299c69-7ef6-4d26-ac56-130d0ac09b4b" />
+
+# Trabajo futuro
 
 Como mejoras futuras se plantea:
 
-- Integración con bases vectoriales externas.
-- Autenticación de usuarios.
 - Registro automático de consultas.
 - Dashboard de métricas.
 - Monitoreo y observabilidad.
@@ -250,16 +257,12 @@ Como mejoras futuras se plantea:
 
 ---
 
-# 👩‍💻 Autora
+# Autora
 
 **Patricia Guadalupe Tovar De La Torre**
-
-Maestría en Cómputo Aplicado
-
-Colegio de Postgraduados
 
 ---
 
 ## Licencia
 
-Proyecto desarrollado con fines académicos como parte del desafío **Agentes Inteligentes** de Alura.
+Proyecto desarrollado con fines académicos como parte del desafío **Agente** de Alura.
