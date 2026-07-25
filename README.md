@@ -228,30 +228,53 @@ Durante las pruebas de funcionamiento se verificó correctamente:
 
 # Evidencias
 ## Despliegue en OCI
-<img width="1918" height="761" alt="image" src="https://github.com/user-attachments/assets/91ef907c-951b-4da8-857e-9283569a5e6e" />
+La aplicación fue desplegada exitosamente en Oracle Cloud Infrastructure utilizando Oracle Linux 8, Podman y Streamlit, quedando accesible mediante una dirección IP pública.
+
+![Despliegue en OCI](evidencias/01_despliegue_oci.png)
 
 ## Interfaz principal
-<img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/e7e1b0db-a204-4ad1-8c4e-bb0cb2564c09" />
+Vista inicial de AgriAsistente una vez desplegado.
+
+![Interfaz principal](evidencias/02_interfaz_principal.png)
 
 ## Consulta realizada
-<img width="1780" height="851" alt="image" src="https://github.com/user-attachments/assets/a8a6d051-ca2b-4c98-a2f9-38c31f9880b4" />
-<img width="1815" height="697" alt="image" src="https://github.com/user-attachments/assets/664e0843-1bc3-4c85-9960-30f3fefc5946" />
+Ejemplo de una consulta realizada por el usuario.
+
+![Consulta](evidencias/03_consulta_asistente.png)
+
+Respuesta generada por el asistente utilizando la base documental.
+
+![Respuesta](evidencias/04_respuesta_asistente.png)
 
 
 ## Base documental
-<img width="1812" height="700" alt="image" src="https://github.com/user-attachments/assets/984f07e6-1282-4376-96c4-c71bef6dcbde" />
 
-<img width="1744" height="857" alt="image" src="https://github.com/user-attachments/assets/0325e8dd-0cfb-4248-9ecc-8a26fa8df955" />
+Preparación inicial de la base documental.
 
-<img width="1812" height="886" alt="image" src="https://github.com/user-attachments/assets/aeb5ec16-ba07-4777-b69f-4e397c33e490" />
+![Base documental](evidencias/05_base_documental.png)
 
-<img width="1815" height="887" alt="image" src="https://github.com/user-attachments/assets/baed4755-e89d-4134-afe5-f20b67a47389" />
+Proceso de preparación del índice.
 
+![Preparar base](evidencias/06_preparar_base.png)
+
+Documentos cargados para la indexación.
+
+![Documentos](evidencias/07_documentos_cargados.png)
+
+Reconstrucción automática del índice RAG.
+
+![Reconstrucción](evidencias/08_reconstruccion_indice.png)
 
 ## Arquitectura
-<img width="567" height="874" alt="image" src="https://github.com/user-attachments/assets/fff08ac7-acef-4d3f-acbd-0a2c4545a38c" />
+Arquitectura del sistema
 
-<img width="967" height="161" alt="image" src="https://github.com/user-attachments/assets/ca299c69-7ef6-4d26-ac56-130d0ac09b4b" />
+Arquitectura general del proceso Retrieval-Augmented Generation (RAG).
+
+![Arquitectura RAG](evidencias/09_arquitectura_rag.png)
+
+Flujo de actualización de la base documental.
+
+![Flujo documental](evidencias/10_flujo_documental.png)
 
 # Trabajo futuro
 
