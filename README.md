@@ -155,6 +155,8 @@ Posteriormente las consultas se realizan utilizando el índice previamente const
 
 # Despliegue en Oracle Cloud Infrastructure
 
+**http://160.34.220.64:8501**
+
 La aplicación fue desplegada en una instancia **Oracle Cloud Infrastructure Compute** utilizando:
 
 - Oracle Linux 8
